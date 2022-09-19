@@ -2,6 +2,7 @@ body{
     width: 100%;
     height: 100%;
     background-image:linear-gradient(45deg,rgb(83, 212, 83), rgb(61, 113, 180));
+    margin-top: 2%;
 }
 
 h1{
@@ -52,7 +53,7 @@ margin-left: 317px;
     height: 40px;
     width: 450px;
     border-radius: 25px;
-    box-shadow: 0px 0px 25px black;
+    box-shadow: 5px 5px 5px black;
     margin-left: 33,8%;
 }
 
